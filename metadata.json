@@ -1,0 +1,8 @@
+{
+  "name": "React2App Pro",
+  "description": "منصة احترافية مدعومة بالذكاء الاصطناعي لتحويل مواقع React إلى تطبيقات جوال أصلية (Native) وPWA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
